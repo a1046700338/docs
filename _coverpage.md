@@ -1,12 +1,8 @@
-![logo](https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/docsify-darklight-theme-logo.png)
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/a1046700338/a1046700338.github.io@2.0/images/1046700338.png" width="100" height="100"/>
+</p>
+<h1 align="center">花诽语docs</h1>
 
-# docsify-darklight-theme-starter
-
-> A magical documentation site generator with dark and light mode switch.
-
-- Themes are customizable based on your color preferences.
-- Themes are remembered and retrieved from local storage.
-- Redesigned search box.
-
+[GitHub](https://github.com/a1046700338/docs)
 [Preview](https://boopathikumar018.github.io/docsify-darklight-theme)
-[Get](#headline)
+[Start](#headline)
