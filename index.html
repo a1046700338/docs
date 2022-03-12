@@ -17,6 +17,17 @@
   />
 </head>
 <body>
+  <nav>
+    <a href="#/">EN</a>
+    <a href="#/zh-cn/">中文</a>
+    <a href="#/about.md">ABOUT</a>
+    <a href="#/python-Studynotes/hellopython.md">python学习笔记</a>
+    <a href="#/zh-cn/other.md">其他</a>
+    <nav>
+      <a href="#/about.md">ABOUT</a>
+      <a href="#/about.md">ABOUT</a>
+    </nav>
+  </nav>
   <div id="app">Loading ...</div>
   <script>
     window.$docsify = {
@@ -36,7 +47,7 @@
         function(hook) {
           var footer = [
             '<footer style="text-align: center;margin-top: 50px;">',
-            '<span>HuaFeiYuDocs&nbsp;&copy;&nbsp;2021-2022&nbsp;</span>',
+            '<span><p align="center"><a href="https://sakurafeiyu.gitee.io/">@sakurafeiyu</a>&nbsp;|&nbsp;&copy;2021-2022&nbsp;<b>HuaFeiYuDocs</b></p></span>',
             '</footer>'
           ].join('');
 
