@@ -12,7 +12,6 @@
 
 - 在线阅读地址：https://snailclimb.gitee.io/javaguide-interview/#/
 - Github：https://github.com/Snailclimb/JavaGuide-Interview
-- 码云：https://gitee.com/SnailClimb/JavaGuide-Interview
 
 ps:我觉得这个大佬写的东西挺不错的都留着了，我只在原基础上增加
 

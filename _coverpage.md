@@ -4,5 +4,5 @@
 <h1 align="center">花诽语docs</h1>
 
 [GitHub](https://github.com/a1046700338/docs)
-[Preview](https://boopathikumar018.github.io/docsify-darklight-theme)
-[Start](#headline)
+[Theme](https://docsify-darklight-theme.boopathikumar.me/#/)
+[Start](#/?id=welcome-to-my-docs)
