@@ -17,6 +17,3 @@ docsify-darklight-theme：一款白天夜间变换的docsify主题，very beauti
 
 ### 待写...
 巴拉巴拉...
-
-
-![](https://cdn.jsdelivr.net/gh/a1046700338/a1046700338.github.io@2.0/images/v2.jpg)

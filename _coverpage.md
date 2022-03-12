@@ -5,4 +5,4 @@
 
 [GitHub](https://github.com/a1046700338/docs)
 [Theme](https://docsify-darklight-theme.boopathikumar.me/#/)
-[Start](#/welcome)
+[Start](https://sakurafeiyu.top/docs/#/welcome)
