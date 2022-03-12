@@ -1,18 +1,24 @@
-# Headline
+# Welcome to my docs
+欢迎来到花诽语文档，这是通过GitHub开源项目[docsify](https://github.com/docsifyjs/docsify)文档网站生成器搭建而成。  
+* 相比sakurafeiyu.top查阅起来更加方便
+* markdown书写代码高亮
+* 文档目录细致整理
+* 个人学习笔记
+* 子项目 `sakurafeiyu.top` to `docs`
 
-> An `awesome` project.
+[如何使用docsify搭建文档类型的网站](./docs/how-to-use-docsify.md)
 
-Lorem ipsum dolor sit amet, gravida semper suspendisse ipsum, nam maecenas curabitur. Volutpat orci maecenas dui elementum. Massa at sollicitudin nec erat, sit libero dolor suspendisse amet, adipiscing dolor sed massa. Fermentum lectus. Est dignissim ac tempor, accusantium hac elit massa dictumst soluta
+### 安利一个在线学习Java的文档
 
-## Libero dictumst mauris
+- 在线阅读地址：https://snailclimb.gitee.io/javaguide-interview/#/
+- Github：https://github.com/Snailclimb/JavaGuide-Interview
+- 码云：https://gitee.com/SnailClimb/JavaGuide-Interview
 
-Tempus etiam, justo nullam vel eros et. Conubia integer. Amet elit nulla, eu tortor fugit pede arcu wisi, elit maecenas commodo integer et vitae nonummy. 
+ps:我觉得这个大佬写的东西挺不错的都留着了，我只在原基础上增加
+
+### 待写...
+巴拉巴拉...
 
 
-```bash
-    Lorem Ipsum
-```
 
-Curabitur amet sed voluptas convallis, urna sodales vivamus dui id minim eget, dapibus nostra dignissim, vestibulum mauris a tortor morbi lobortis eu, felis odio. Eu ligula taciti cras, faucibus ac vel quis donec sodales. Lacinia euismod sed semper donec. Magna aliquam sed non, vestibulum cursus sed ut vivamus felis porttitor, vestibulum nibh augue a pede, vehicula integer ut nunc proin. 
-
-Et diam integer euismod semper pede sapien, massa orci vel, lorem porttitor quam in orci amet, hymenaeos ultrices in. Urna ipsum pellentesque pretium quis, interdum ante commodo nullam eu tristique, aliquam nec velit nisl in, integer elementum ac recusandae nibh sit eu. Id libero lobortis sed quis. Luctus dapibus malesuada erat duis dolor pede, orci ut justo, diam enim id proin mi.
+![](https://cdn.jsdelivr.net/gh/a1046700338/a1046700338.github.io@2.0/images/v2.jpg)
