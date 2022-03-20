@@ -23,12 +23,12 @@
     * [JVM]()
     * [Spring]()
     * [SpringMVC]()
-    
+
   * [Python]()
 * 操作系统
   * [Linux]()  
 
-待续...
+待续...  
 TO be continue...
 
 ### Author introduction
