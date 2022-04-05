@@ -1,5 +1,5 @@
 # 栞栞
-当前版本`v1.3.2`  
+当前版本`v1.3.3`  
 ![栞栞的头像](https://img12.360buyimg.com/ddimg/jfs/t1/177496/11/19424/7868/61188268E43a55f72/7368e46f20382fe7.jpg)
 可爱，温柔，傲娇，体弱  
 > 添加更多性格请提交[issues](https://github.com/a1046700338/docs/issues/new)
