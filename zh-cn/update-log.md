@@ -1,7 +1,7 @@
 # 栞栞更新说明
 本机器人是使用HoshinoBot（基于 nonebot 框架的QQ机器人）和yobot公会战辅助机器人，以及GitHub上基于hoshinobot框架的开源插件，
 本机器人使用的框架均为开源程序，进行二次修改，因地制宜的，达到公主连结游戏辅助和群聊机器人使用的效果。
-# 栞栞版本更新 kankan-v1.3.2
+# 栞栞版本更新 kankan-v1.3.3
 # 修改查刀网址接口，改为二级域名解析，一级域名即为我的博客网址
 查刀，yobot工会战管理web端网址：http://bot.sakurafeiyu.top:9222/login/
 
