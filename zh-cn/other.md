@@ -1,4 +1,4 @@
-## 视频剪辑
+# 视频剪辑
 将成片通过软件编辑，剪切，修改，添加特效等方式。  
 视频剪辑是我的个人爱好，比较喜欢[MAD·AMV]()和[MMD]()以及一些混剪题材。  
 下面将分享我个人剪辑的一些小小经验
@@ -9,22 +9,38 @@
 - [**Adobe After Effects CC 2018**](/zh-cn/other?id=adobe-after-effects-cc-2018)
 - [**小丸工具箱bilibili版**](zh-cn/other?id=小丸工具箱bilibili版)
 - [**OBS**](zh-cn/other?id=obs)
+- [**DaVinci Resolve**](zh-cn/other?id=DaVinci Resolve)
 - ...
 
 ### 无版权字体：
 - **思源宋体**
 
-> 以上软件链接：百度网盘，天翼云盘
+> 以上软件链接：百度网盘，天翼云盘，阿里云盘
+百度网盘：https://pan.baidu.com/s/1f7C37H5MIzVgWnQpwW6ITg?pwd=7a09 
+提取码：7a09
+天翼云盘：暂无
+阿里云盘：暂无
 
 #### Adobe Premiere Pro
+[推荐教程](还没写)
 
 #### Adobe Photoshop CC 2018
+[推荐教程](还没写)
 
 #### Adobe After Effects CC 2018
+[推荐教程](还没写)
 
 #### 小丸工具箱bilibili版
+[推荐教程](还没写)
 
 #### OBS
+[官网](https://obsproject.com/)
+
+#### DaVinci Resolve
+[官网](http://www.blackmagicdesign.com/cn/products/davinciresolve/)
+- **推荐教程**
+    - [达芬奇以及Fusion的基础教学以及技巧](https://space.bilibili.com/33382000/channel/seriesdetail?sid=238222)
+    - [影视飓风的达芬奇教程](https://space.bilibili.com/946974/channel/seriesdetail?sid=30829)
 
 
 ## 安卓
@@ -35,3 +51,14 @@
 
 
 ## 成果展示
+<iframe height="600px" width="1200px" src="">
+
+
+<hr/>
+
+# Auto.js
+[GitHub](https://github.com/hyb1996/Auto.js)
+开源，安卓平台上的JavaScript自动化工具  
+[VSCode插件](https://github.com/hyb1996/Auto.js-VSCode-Extension)  |  [文档](https://g.pro.autojs.org/)  |  [案例](https://github.com/hyb1996/Auto.js/tree/master/app/src/main/assets/sample)  
+
+
