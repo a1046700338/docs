@@ -12,13 +12,14 @@
   * [VUE](/zh-cn/vue.md)
   * more...
   * TODO
-    - [] [尚硅谷JS入门到精通](https://www.bilibili.com/video/BV1YW411T7GX?p=12)
+    - [] [尚硅谷JS入门到精通](https://www.bilibili.com/video/BV1YW411T7GX?p=17)
+    - [] [学习VUE2](https://cn.vuejs.org/v2/guide/#%E5%A3%B0%E6%98%8E%E5%BC%8F%E6%B8%B2%E6%9F%93)
     - [] [尚硅谷Mysql](https://www.bilibili.com/video/BV1iq4y1u7vj?p=5)
     - [] [尚硅谷JDBC](https://www.bilibili.com/video/BV1eJ411c7rf?p=6&spm_id_from=pageDriver)
 
 * [尚硅谷Java快速学习路线图](https://www.bilibili.com/read/cv5216534?spm_id_from=333.788.b_636f6d6d656e74.8)
 * 后端
-  * [Java](https://www.bilibili.com/video/BV1Kb411W75N?p=32)
+  * [Java](https://www.bilibili.com/video/BV1Kb411W75N?p=50)
     * [JavaWeb]()
     * [JVM]()
     * [Spring]()

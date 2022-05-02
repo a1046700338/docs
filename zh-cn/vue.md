@@ -1,5 +1,7 @@
-学习vue前，需要先掌握前端三剑客HTML+CSS+JavaScript三大技术  
-学习笔记：[🔗](https://sakurafeiyu.top/javaweb)
+> 学习vue前，需要先掌握前端三剑客HTML+CSS+JavaScript三大技术  
+学习笔记：[🔗](https://sakurafeiyu.top/javaweb)  
+
+
 # VUE
 vuejs，是由中国人尤雨溪和其团队成员研发的一款用于构建用户界面的渐进式框架  
 [VUE官网](https://v3.cn.vuejs.org/)
